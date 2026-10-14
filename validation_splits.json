@@ -1,0 +1,16 @@
+[
+  {
+    "name": "earlier check",
+    "train_start": 1,
+    "train_end": 21,
+    "validation_start": 22,
+    "validation_end": 28
+  },
+  {
+    "name": "latest holdout",
+    "train_start": 1,
+    "train_end": 28,
+    "validation_start": 29,
+    "validation_end": 35
+  }
+]
