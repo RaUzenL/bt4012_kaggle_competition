@@ -1,0 +1,3 @@
+model,submission_file,validation_roc_auc_steps_22_28,validation_roc_auc_steps_29_35,kaggle_public_roc_auc,kaggle_public_fraction,kaggle_private_roc_auc,score_source
+RandomForestClassifier,submissions/random_forest_model.csv,0.8764580863619393,0.9949591522592444,0.92447,0.3,,User-reported Kaggle public leaderboard
+LogisticRegression,submissions/logistic_regression_baseline.csv,0.9092942418427248,0.9034840871762336,,,,Local chronological validation; Kaggle score pending
