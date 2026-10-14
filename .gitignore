@@ -1,4 +1,4 @@
-# Downloaded competition data stays on this computer
+# Downloaded data from Kaggle
 /bt-4012-competition-2026/
 
 # Python environment and temporary files
@@ -7,7 +7,6 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 
-# Credentials
 .env
 kaggle.json
 
